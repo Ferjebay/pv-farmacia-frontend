@@ -1,0 +1,122 @@
+[
+  {
+    "label": "Seleccionar todos los permisos",
+    "children": [
+      {
+        "label": "Usuario",
+        "children": [
+          { "label": "Ver Usuarios", "id": 2 },
+          { "label": "Agregar Usuario", "id": 3 },
+          { "label": "Editar Usuario", "id": 4 },
+          { "label": "Inactivar Usuario", "id": 5 },
+          { "label": "Activar Usuario", "id": 6 },
+          { "label": "Eliminar Usuario", "id": 7 }
+        ]
+      },
+      {
+        "label": "Puntos de Ventas",
+        "children": [
+          { "label": "Ver PV", "id": 29 },
+          { "label": "Agregar PV", "id": 30 },
+          { "label": "Editar PV", "id": 31 },
+          { "label": "Inactivar PV", "id": 33 },
+          { "label": "Activar PV", "id": 32 },
+          { "label": "Eliminar PV", "id": 34 }
+        ]
+      },
+      {
+        "label": "Proveedores",
+        "children": [
+          { "label": "Ver Proveedores", "id": 18 },
+          { "label": "Agregar Proveedor", "id": 19 },
+          { "label": "Editar Proveedor", "id": 20 },
+          { "label": "Activar Proveedor", "id": 21 },
+          { "label": "Inactivar Proveedor", "id": 22 }
+        ]
+      },
+      {
+        "label": "Clientes",
+        "children": [
+          { "label": "Ver Clientes", "id": 23 },
+          { "label": "Agregar Cliente", "id": 24 },
+          { "label": "Editar Cliente", "id": 25 },
+          { "label": "Activar Cliente", "id": 28 },
+          { "label": "Inactivar Cliente", "id": 27 },
+          { "label": "Eliminar Cliente", "id": 26 }
+        ]
+      },
+      {
+        "label": "Roles",
+        "children": [
+          { "label": "Ver Roles", "id": 8 },
+          { "label": "Agregar Rol", "id": 9 },
+          { "label": "Editar Rol", "id": 10 },
+          { "label": "Eliminar Rol", "id": 11 }
+        ]
+      },
+      {
+        "label": "Articulos",
+        "children": [
+          { "label": "Ver Articulos", "id": 12 },
+          { "label": "Agregar Articulo", "id": 13 },
+          { "label": "Editar Articulo", "id": 14 },
+          { "label": "Eliminar Articulo", "id": 15 }
+        ]
+      },
+      {
+        "label": "Presentaciones",
+        "children": [
+          { "label": "Ver Presentaciones", "id": 35 },
+          { "label": "Agregar Presentacion", "id": 36 },
+          { "label": "Editar Presentacion", "id": 37 },
+          { "label": "Eliminar Presentacion", "id": 38 },
+          { "label": "Activar Presentacion", "id": 39 },
+          { "label": "Inactivar Presentacion", "id": 40 }
+        ]
+      },
+      {
+        "label": "Laboratorios",
+        "children": [
+          { "label": "Ver Laboratorios", "id": 41 },
+          { "label": "Agregar Laboratorio", "id": 42 },
+          { "label": "Editar Laboratorio", "id": 43 },
+          { "label": "Eliminar Laboratorio", "id": 44 },
+          { "label": "Activar Laboratorio", "id": 45 },
+          { "label": "Inactivar Laboratorio", "id": 46 }
+        ]
+      },
+      {
+        "label": "Categorias",
+        "children": [
+          { "label": "Ver Categorias", "id": 47 },
+          { "label": "Agregar Categoria", "id": 48 },
+          { "label": "Editar Categoria", "id": 49 },
+          { "label": "Eliminar Categoria", "id": 50 },
+          { "label": "Activar Categoria", "id": 51 },
+          { "label": "Inactivar Categoria", "id": 52 }
+        ]
+      },
+      {
+        "label": "Compras",
+        "children": [
+          { "label": "Ver Compras", "id": 53 },
+          { "label": "Agregar Compras", "id": 54 },
+          { "label": "Anular Compras", "id": 55 }
+        ]
+      },
+      {
+        "label": "Ventas",
+        "children": [
+          { "label": "Ver Ventas", "id": 16 },
+          { "label": "Agregar Venta", "id": 17 }
+        ]
+      },
+      {
+        "label": "Productos Caducador",
+        "children": [
+          { "label": "Ver Productos Caducados", "id": 57 }
+        ]
+      }
+    ]
+  }
+]
